@@ -1,2 +1,2 @@
 # Audit-TESLA
-asfjgaefhawejfwariyghfud
+Collected past 10 years data of Tesla from SEC and ran financial analysis to see the current standing of Tesla and see if their numbers are fairly stated in their balance sheets and income statements. Using R, ran the statistical tests and analyzed twitter data using NLP, downloaded tweets, performed sentiment analysis and plotted word cloud to estimate the current standing of Tesla in people’s mind.
